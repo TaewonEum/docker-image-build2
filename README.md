@@ -12,4 +12,4 @@ Docker File 작성
 
 2. 도커 이미지 빌드
 
-
+![image](https://user-images.githubusercontent.com/104436260/200493309-0ec4e3d0-734e-4337-bf1a-d8c990060aff.png)
